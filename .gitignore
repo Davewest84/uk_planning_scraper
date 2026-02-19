@@ -9,3 +9,5 @@
 /tmp/
 *.gem
 .ruby-*
+*.log
+*_results.json
