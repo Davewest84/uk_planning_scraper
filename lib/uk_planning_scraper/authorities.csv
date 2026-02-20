@@ -24,7 +24,7 @@ Bromley,https://searchapplications.bromley.gov.uk/online-applications/search.do?
 Bury,https://planning.bury.gov.uk/online-applications/search.do?action=advanced,england greatermanchester
 Calderdale,https://portal.calderdale.gov.uk/online-applications/search.do?action=advanced,england westyorkshire
 Camden,https://planningrecords.camden.gov.uk/Northgate/PlanningExplorer/GeneralSearch.aspx,londonboroughs london
-Cardiff,https://planningonline.cardiff.gov.uk/online-applications/search.do?action=advanced,wales
+Cardiff,https://planning.cardiff.gov.uk/online-applications/search.do?action=advanced,wales
 Cheshire West and Chester,https://pa.cheshirewestandchester.gov.uk/online-applications/search.do?action=advanced,chester cheshire england
 City of London,https://www.planning2.cityoflondon.gov.uk/online-applications/search.do?action=advanced,london innerlondon northlondon england
 Croydon,https://publicaccess3.croydon.gov.uk/online-applications/search.do?action=advanced,londonboroughs london
@@ -96,7 +96,7 @@ Stockton-on-Tees,https://www.developmentmanagement.stockton.gov.uk/online-applic
 Stoke-on-Trent,https://planning.stoke.gov.uk/online-applications/search.do?action=advanced,england
 Sunderland,https://www.sunderland.gov.uk/online-applications/search.do?action=advanced,england tyneandwear
 Sutton,https://planningregister.sutton.gov.uk/online-applications/search.do?action=advanced,london londonboroughs outerlondon southlondon england
-Swindon,https://pa1.swindon.gov.uk/publicaccess/search.do?action=advanced,england
+Swindon,http://pa.swindon.gov.uk/publicaccess/search.do?action=advanced,england
 Tameside,https://public.tameside.gov.uk/plan/f422planapp.asp,england greatermanchester
 Thurrock,https://regs.thurrock.gov.uk/online-applications/search.do?action=advanced,england
 Torbay,https://www.torbay.gov.uk/newpublicaccess/search.do?action=advanced,""
@@ -104,7 +104,7 @@ Tower Hamlets,https://development.towerhamlets.gov.uk/online-applications/search
 Trafford,https://publicaccess.trafford.gov.uk/online-applications/search.do?action=advanced,england greatermanchester
 Wakefield,https://planning.wakefield.gov.uk/online-applications/search.do?action=advanced,england
 Waltham Forest,https://planning.walthamforest.gov.uk/planning/search-applications,london londonboroughs
-Wandsworth,https://planning1.wandsworth.gov.uk/Northgate/PlanningExplorer/GeneralSearch.aspx,london innerlondon southlondon england londonboroughs
+Wandsworth,https://planning.wandsworth.gov.uk/Northgate/PlanningExplorer/GeneralSearch.aspx,london innerlondon southlondon england londonboroughs
 West Berkshire,https://publicaccess.westberks.gov.uk/online-applications/search.do?action=advanced,england
 Westminster,https://idoxpa.westminster.gov.uk/online-applications/search.do?action=advanced,londonboroughs london
 Wigan,https://apps.wigan.gov.uk/planapps/PlanAppsAppSearch.asp,england greatermanchester
